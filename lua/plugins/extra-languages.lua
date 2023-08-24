@@ -1,5 +1,5 @@
 return {
   {
-    "jwalton512/vim-blade",
+    "alexandersix/vim-blade",
   },
 }

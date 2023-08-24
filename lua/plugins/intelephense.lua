@@ -4,6 +4,12 @@ return {
     opts = {
       servers = {
         intelephense = {},
+        pyright = {},
+        yamlls = {},
+        gopls = {},
+        sqlls = {},
+        bashls = {},
+        marksmanls = {},
       },
     },
   },
